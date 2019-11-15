@@ -1,0 +1,27 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Angular Project development",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farzammalekzad/Angular.git"
+  },
+  "keywords": [
+    "1234567890"
+  ],
+  "author": "Farzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farzammalekzad/Angular/issues"
+  },
+  "homepage": "https://github.com/farzammalekzad/Angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
